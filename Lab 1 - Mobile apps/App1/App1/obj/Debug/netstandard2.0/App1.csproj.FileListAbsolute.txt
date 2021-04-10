@@ -1,0 +1,17 @@
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\hubi1\source\repos\azure\Lab 1 - Mobile apps\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CopyComplete
