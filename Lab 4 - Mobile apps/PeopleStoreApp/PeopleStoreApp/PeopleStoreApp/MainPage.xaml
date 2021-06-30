@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:peoplestoreapp="clr-namespace:PeopleStoreApp" x:DataType="peoplestoreapp:MainViewModel"
+             x:Class="PeopleStoreApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="People App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="imgPhoto" Grid.Row="0"/>
+            <StackLayout  Grid.Row="1">
+                <!--<Button x:Name="btnPhoto" Text="Take a picture"/>-->
+                <Entry Text="{Binding Firstname}" Placeholder="First Name"/>
+                <Entry Text="{Binding Lastname }"  Placeholder="Last Name"/>
+                <Entry Text="{Binding Phonenumber}"  Placeholder="Phone Number" Keyboard="Telephone"/>
+            </StackLayout>
+            <!--<Button x:Name="btnSave" Text="Save Data" Grid.Row="2"/>-->
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
